@@ -1,6 +1,5 @@
 # Bank-Marketing-Prediction
 Predicting Customer Subscription to Term Deposit Campaigns Using Machine Learning
-# Bank Marketing Subscription Prediction
 
 ## Dataset : https://archive.ics.uci.edu/dataset/222/bank+marketing
 - Source: UCI Machine Learning Repository
